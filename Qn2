@@ -1,0 +1,4 @@
+1>3>4
+Here left to right precedence is used.
+1>3 is false so it gives value 0
+now 0>4 is false hence output will be false
