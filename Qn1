@@ -1,0 +1,7 @@
+== checks the value equality
+is checks the  refernce of objects
+"pepsi" == "pepsi" gives output as true but "pepsi" is "pepsi" false
+a = [6,4,"26"]
+b = [6,4,"26"]
+print(b == a) #True
+print(b is a) #False
