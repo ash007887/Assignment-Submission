@@ -1,0 +1,3 @@
+int(2.0) typecastes it into an integer value
+float(2) typecastes 2 into a float value
+str(8) typecastes 8 into a string value
